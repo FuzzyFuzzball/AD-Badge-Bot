@@ -1,0 +1,20 @@
+{
+  "name": "ad-badge-bot",
+  "version": "1.0.0",
+  "description": "This bot will give you the active developer badge on your discord profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuzzyFuzzball/AD-Badge-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuzzyFuzzball/AD-Badge-Bot/issues"
+  },
+  "homepage": "https://github.com/FuzzyFuzzball/AD-Badge-Bot#readme"
+}
