@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/FuzzyFuzzball/AD-Badge-Bot/issues"
   },
-  "homepage": "https://github.com/FuzzyFuzzball/AD-Badge-Bot#readme"
+  "homepage": "https://github.com/FuzzyFuzzball/AD-Badge-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0",
+    "wokcommands": "^2.1.0"
+  }
 }
