@@ -17,3 +17,5 @@
  After you have created the bot put in the token where it requires it in the index.js file. Ensure to also put the server ID in where it needs it otherwise the command probably won't show.
 
  Run "node ." in the command prompt and it should start the bot.
+ 
+ I AM NOT RESPONSIBLE FOR ANYTHING TO DO WITH THIS, I HAVE WRITTEN THE PROJECT FOR EVERYONE BUT IF ANYTHING HAPPENS TO YALL, NOT MY FAULT. 
