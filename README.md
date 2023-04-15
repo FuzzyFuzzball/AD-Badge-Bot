@@ -18,4 +18,8 @@
 
  Run "node ." in the command prompt and it should start the bot.
  
+ NOTES:
+ 
+ It may take a few days to be added to your account depending on how Discord is feeling that day.
+ 
  I AM NOT RESPONSIBLE FOR ANYTHING TO DO WITH THIS, I HAVE WRITTEN THE PROJECT FOR EVERYONE BUT IF ANYTHING HAPPENS TO YALL, NOT MY FAULT. 
