@@ -4,6 +4,7 @@
  When installing the bot, you need a couple of things to run it.
 
  Node.js
+ 
  A brain :D
 
  When you have installed the code, you will need to extract the zip.
